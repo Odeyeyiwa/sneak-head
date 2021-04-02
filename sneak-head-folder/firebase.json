@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "sneak-head",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
